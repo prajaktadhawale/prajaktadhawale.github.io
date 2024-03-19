@@ -1,0 +1,31 @@
+title: Prajakta Dhawale's Portfolio
+email: prajaktadhawale29@gmail.com
+description: >-
+Welcome! I’m Prajakta Dhawale, armed with a B.Eng, an MBA, and a Graduate 
+Certificate in Business Analytics, charting a course through the 
+fascinating confluence of technology, business strategy, and data 
+analysis. With over 5 years of experience spanning Information Technology 
+& Services and a dedicated year in Business Analytics, I’ve cultivated a 
+unique blend of skills that thrive at the intersection of data science and 
+strategic decision-making. Dive into my portfolio to explore a tapestry of 
+projects that illustrate a commitment to excellence, innovation, and the 
+power of data-driven problem solving.
+baseurl: ""
+url: "https://prajaktadhawale.github.io" # Your GitHub Pages URL
+github_username:  prajaktadhawale
+theme: minima
+plugins:
+  - jekyll-feed
+about_me:
+  name: "Prajakta Dhawale B.Eng, MBA, PgD"
+  phone: "+1-3439897343"
+  email: "prajaktadhawale29@gmail.com"
+  linkedin_url: "www.linkedin.com/in/prajakta-dhawale"
+  location: "Kingston, Ontario"
+
+  skills: 
+    - Business Analytics
+    - Data Analytics
+    - Databases
+    - Proposal Coordination
+
